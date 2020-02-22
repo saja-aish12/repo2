@@ -1,0 +1,9 @@
+<project >
+<property name="srccode" location ="./src/p2"/>
+<property name="classcode" location ="./targerts"/>
+<target name ="compile">
+<javac srcdir="srccode" 
+destdir="classcode"
+/>
+</target>
+</project>
