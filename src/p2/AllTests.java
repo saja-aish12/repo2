@@ -8,4 +8,5 @@ import org.junit.runners.Suite.SuiteClasses;
 @SuiteClasses({ Calculater.class, yy.class })
 public class AllTests {
 
-}
+}  
+
