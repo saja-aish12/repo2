@@ -13,6 +13,7 @@
 <property location="${result.dir}/testclasses" name="result.testclasses.dir"/>
 
 
+
 -<path id="NecessaryLibraries">
 
 <pathelement location="./UsedLibraries/junit-4.12.jar"/>
