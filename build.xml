@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <project default="compile">
 
-<property location="./src/p2/Calculator " name="src.java.dir"/>
+<property location="./src/p2" name="src.java.dir"/>
 
-<property location="./src/TST/Calculater " name="src.test.dir"/>
+<property location="./src/TST" name="src.test.dir"/>
 
 
 <property location="./target" name="result.dir"/>
@@ -16,7 +16,7 @@
 
 <path id="NecessaryLibraries">
 
-<pathelement location="./Referenced Libraries/junit-4.12.jar"/>
+<pathelement location="./Referenced Libraries/junit-4.13.jar"/>
 
 <!--matcher-->
 
