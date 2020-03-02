@@ -13,6 +13,7 @@
 <property location="${result.dir}/testclasses" name="result.testclasses.dir"/>
 
 
+	
 
 <path id="NecessaryLibraries">
 
@@ -86,11 +87,12 @@
 
 <fileset dir="${result.testclasses.dir}">
 
-<include name="**/*Test.class"/>
+<include name="**/*Calculater.class"/>
 
 </fileset>
 
 </batchtest>
+	
 
 </junit>
 
